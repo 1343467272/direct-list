@@ -1,0 +1,21 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "v2ex.com",
+        "terraria.wiki.gg",
+      ]
+    },
+    {
+      "domain_keyword": [
+        ""
+      ]
+    },
+    {
+      "ip_cidr": [
+        ""
+      ]
+    }
+  ],
+  "version": 1
+}
